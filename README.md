@@ -2,7 +2,7 @@
 
 im a second year cs student at ubc looking for internships :)
 
-[linkedin](https://linkedin.com/in/daisfasl)\
+[linkedin](https://linkedin.com/in/jacobtantan)\
 [email](mailto:jacobtan07@gmail.com)
 
 
