@@ -1,6 +1,11 @@
-## Hi there 👋
+## hi im jacob 
 
 im a second year cs student at ubc looking for internships :)
+
+[linkedin](https://linkedin.com/in/daisfasl)\
+[email](mailto:jacobtan07@gmail.com)
+
+
 
 <!--
 **daisfasl/daisfasl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
