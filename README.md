@@ -1,6 +1,6 @@
 ## hi im jacob 
 
-im a second year cs student at ubc looking for internships :)
+im a cs student at ubc looking for internships :)
 
 [linkedin](https://linkedin.com/in/jacobtantan)\
 [email](mailto:jacobtan07@gmail.com)
